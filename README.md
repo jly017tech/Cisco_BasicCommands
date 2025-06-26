@@ -2,6 +2,7 @@
 
 <p>In the Testlab, I learned how to use commands when changing IP address and ping other network devices.
 I looked up each most common terminal commands use in Cisco and understand every each it's own purpose. 
+I practiced for 30 minutes and watched some example videos on youtube relevalnt to networking. 
 </p>
 
 <ul>
