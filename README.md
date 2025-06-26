@@ -13,3 +13,8 @@ I looked up each most common terminal commands use in Cisco and understand every
 
 
 ![image](https://github.com/user-attachments/assets/862dacc5-d1e0-443d-ae2d-c372dfb4e1c5)
+
+
+<p>I also learned using ? helps show a list of option available. For example, I enter sh v? and it gives me:
+  vc-group, version, vlan-range, vlan-switch, vlans, vpdn, vtemplate, and vtp.
+</p>
