@@ -5,9 +5,8 @@ I looked up each most common terminal commands use in Cisco and understand every
 </p>
 
 <ul>
-  <li>conf t</li>
-  <li>en</li>
-  <li>ping</li>
+  <li>conf t: This allows to add Ip address, setup ethernet channel to the rotuer or the switch</li>
+  <li>en: When setting up a router, have to enable terminal otherwise you can't configure IP address setting.</li>
 
 </ul>
 
@@ -16,5 +15,5 @@ I looked up each most common terminal commands use in Cisco and understand every
 
 
 <p>I also learned using ? helps show a list of option available. For example, I enter sh v? and it gives me:
-  vc-group, version, vlan-range, vlan-switch, vlans, vpdn, vtemplate, and vtp.
+  vc-group, version, vlan-range, vlan-switch, vlans, vpdn, vtemplate, and vtp. 
 </p>
